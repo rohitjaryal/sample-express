@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-express
+  annotations:
+    github.com/project-slug: rohitjaryal/sample-express
+spec:
+  type: other
+  lifecycle: unknown
+  owner: rohitjaryal
